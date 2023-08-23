@@ -1,4 +1,4 @@
 # New Project 
 This project was created in local system
 
-created by Soumik Nath
+created by Soumik Nath.
